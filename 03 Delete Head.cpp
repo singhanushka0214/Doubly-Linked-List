@@ -1,4 +1,4 @@
-// Creation Of Doubly Linked List
+// Delete Head
 #include<bits/stdc++.h>
 using namespace std;
 class Node{
